@@ -93,7 +93,7 @@ Of course, there will be times when it makes sense for one or the other of us to
 
 I have been told that I can come across as having very strong opinions. That’s because I do. So, be prepared to challenge me when your idea is better than mine. Show me a better way, and I will likely change my position and argue just as strongly for yours.
 
-I also have a tendency to blurt out some version of “no” before really considering the question. It’s a bad habit. I’m working on squelching it. In the meantime, just be prepared to wait a minute while I process the idea. Often, I’ll change my answer within moments as I think it through.d
+I also have a tendency to blurt out some version of “no” before really considering the question. It’s a bad habit. I’m working on squelching it. In the meantime, just be prepared to wait a minute while I process the idea. Often, I’ll change my answer within moments as I think it through.
 
 ## Where to focus during your first 90 days?
 
