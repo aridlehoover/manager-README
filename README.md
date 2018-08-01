@@ -57,7 +57,7 @@ Be kind to each other — especially when things go wrong. Your kindness will cr
 
 ### Pay It Forward
 
-Mentoring is the act of paying forward the time and energy that others invested in you on your way to where you are today. It is a force multiplier. Idt magnifies the contributions you make through the actions of those you mentor.
+Mentoring is the act of paying forward the time and energy that others invested in you on your way to where you are today. It is a force multiplier. It magnifies the contributions you make through the actions of those you mentor.
 
 I expect the entire team to mentor one another no matter seniority, experience, or proficiency, because you will never learn something more quickly than when you sit down to teach it to someone else. There are many ways to mentor. Here are a few ideas to start:
 
