@@ -1,8 +1,6 @@
 # Hello. I’m Alan.
 
-Welcome to the team! I’m super excited that you joined us!
-
-Before we get started, I’d like to share a bit about my management style and expectations. This is not intended to be exhaustive. And, it is absolutely not intended to replace any face-to-face conversations between us. It’s just my README: an introduction to me with examples of how to use some of my common APIs.
+Welcome to my manager README! This document is an introduction to me and my management style. It is not meant to be exhaustive. And, it is absolutely not intended to replace any face-to-face conversations between us. It's just my README: and introduction with some examples of how to use some of my common APIs.
 
 ## What can you expect of me as your manager?
 
@@ -27,7 +25,7 @@ I have three guiding principles for our team:
 
 - No Superpeople. If one of us does all the heavy lifting, the rest of us won’t develop any muscles.
 - No cowboys. We need to be aligned on design principles and architectural approaches.
-- No surprizes. We should be the first to know when there is a problem.
+- No surprises. We should be the first to know when there is a problem.
 
 ## What do I expect of you?
 
@@ -59,7 +57,9 @@ Be kind to each other — especially when things go wrong. Your kindness will cr
 
 Mentoring is the act of paying forward the time and energy that others invested in you on your way to where you are today. It is a force multiplier. It magnifies the contributions you make through the actions of those you mentor.
 
-I expect the entire team to mentor one another no matter seniority, experience, or proficiency, because you will never learn something more quickly than when you sit down to teach it to someone else. There are many ways to mentor. Here are a few ideas to start:
+I expect the entire team to mentor one another no matter seniority, experience, or proficiency, because you will never learn something more quickly than when you sit down to teach it to someone else.
+
+There are many ways to mentor. Here are a few ideas to start:
 
 - Write some documentation
 - Host a brown-bag
@@ -67,7 +67,7 @@ I expect the entire team to mentor one another no matter seniority, experience, 
 - Thoughtfully review a pull request
 - Sit with another engineer and work on a problem together
 
-Mentoring isn’t hard. And, it’s not about who knows the most. I’ve mentored many people with better technical skills than mine by being open to sharing what I do know. And, I learn from people with less experience than me every day by being open to learning  all the time.
+Mentoring isn’t hard. And, it’s not about who knows the most. I’ve mentored many people with better technical skills than mine by being open to sharing what I do know. And, I learn from people with less experience than me every day by being open to learning all the time.
 
 ## Feedback
 
@@ -77,17 +77,17 @@ I will provide you feedback during our one-on-ones in the same spirit of learnin
 
 ## Schedule
 
-I am usually in the office from 10am to 6pm. I’m often there later, but rarely earlier. That way I get to see my kids off to school and miss the traffic. Most nights, I get back online after my kids are in bed to plan the next day. So, it’s not uncommon to find me on Slack after 10pm. What can I say? I’m a night person.
+I am usually in the office from 10am to 6pm. I’m often there later, but rarely earlier. That way I get to see my kids off to school and miss the traffic. Most nights, I get back online to plan the next day after my kids are in bed. So, it’s not uncommon to find me on Slack after 10pm. What can I say? I’m a night person.
 
-As for your schedule, do what works for you around the team’s core hours of 10am to 5pm.  We have core hours in order to take maximum advantage of the high bandwidth communication channel created by sitting next to each other.
+As for your schedule, do what works for you around the team’s core hours of 10am to 5pm. We have core hours in order to take maximum advantage of the high bandwidth communication channel created by sitting next to each other.
 
 That said, there are times when I need to leave earlier than 5pm in order to take care of my kids or arrive later than 10am so I can visit the dentist. This is my life. I expect yours has similar requirements. All I ask is that if you are going to be unavailable during core hours, please add the time to our out-of-office calendar and let the team know.
 
 ### Working from Home
 
-As a general rule, I prefer that people work together in the office as much as possible. As I aluded to above, I prefer this because communicating in person has a much higher signal to noise ratio that other forms of communication.
+As a general rule, I prefer that people work together in the office as much as possible. As I alluded to above, I prefer this because communicating in person has a much higher signal to noise ratio that other forms of communication.
 
-Of course, there will be times when it makes sense for one or the other of us to work from home. I will do my best to plan and communicate this with the team before hand. And, as much as possible, I’ll open a Slack video chat that you can drop into to talk to me face-to-face. I would appreciate it if you did the same.
+Of course, there will be times when it makes sense for one or the other of us to work from home. I will do my best to plan and communicate this with the team before hand. And, as much as possible, I’ll be available via Slack video chat for you to drop in to and talk to me face-to-face. I would appreciate it if you did the same.
 
 ## Personality quirks
 
@@ -95,11 +95,9 @@ I have been told that I can come across as having very strong opinions. That’s
 
 I also have a tendency to blurt out some version of “no” before really considering the question. It’s a bad habit. I’m working on squelching it. In the meantime, just be prepared to wait a minute while I process the idea. Often, I’ll change my answer within moments as I think it through.
 
-## Where to focus during your first 90 days?
+## Recommended reading
 
-It depends on your background and experience. If you are joining the team as an Associate Software Engineer, you’ll go through a formal 30/60/90 plan that focuses on growing your technical skills. If you’re joining the team as a Software Engineer or above, your first 90 days will be about exploring the codebase and learning our development practices. In either case, expect to work closely with your teammates as they show you around.
-
-Also, if you haven’t already, I highly recommend that you read these books:
+If you haven’t already, I highly recommend that you read these books:
 
 - [Practical Object Oriented Development in Ruby](http://www.poodr.com/) by Sandi Metz
 - [Extreme Programming Explained](https://www.amazon.com/Extreme-Programming-Explained-Embrace-Change/dp/0321278658) by Kent Beck
@@ -109,4 +107,4 @@ These are my guideposts for how to write and test object-oriented software, how 
 
 ## Welcome!
 
-Again, welcome to the team! Now, let's get started!
+That's it. That's me in a nutshell. I'm glad you're on my team. Now, let's get to work!
