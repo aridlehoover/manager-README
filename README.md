@@ -9,7 +9,7 @@ My role is to ensure the success of our team. I define success as a combination 
 1. I am here to help you improve your technical skills, grow your career, and enjoy your work.
 2. I am here to provide context and to [align](https://thinkgrowth.org/what-elon-musk-taught-me-about-growing-a-business-c2c173f5bff3) our team with the rest of the company.
 3. I am here to ensure the team is getting what we need from other teams, and vice versa.
-4. I am also here to write some code.
+4. I am also here to (occasionally) write some code.
 
 These are in rough order of prioritization. If you aren't successful and happy, our team is not successful (or happy). If our team is struggling, I probably will not be doing much coding.
 
