@@ -89,11 +89,9 @@ As a general rule, I prefer that people work together in the office as much as p
 
 Of course, there will be times when it makes sense for one or the other of us to work from home. I will do my best to plan and communicate this with the team before hand. And, as much as possible, I’ll be available via Slack video chat for you to drop in to and talk to me face-to-face. I would appreciate it if you did the same.
 
-## Personality quirks
+## Personality quirk
 
 I have been told that I can come across as having very strong opinions. That’s because I do. So, be prepared to challenge me when your idea is better than mine. Show me a better way, and I will likely change my position and argue just as strongly for yours.
-
-I also have a tendency to blurt out some version of “no” before really considering the question. It’s a bad habit. I’m working on squelching it. In the meantime, just be prepared to wait a minute while I process the idea. Often, I’ll change my answer within moments as I think it through.
 
 ## Recommended reading
 
