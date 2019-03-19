@@ -23,7 +23,7 @@ We will have a weekly, 30-minute one-on-one (unless you prefer a different caden
 
 I have three guiding principles for our team:
 
-- No Superpeople. If one of us does all the heavy lifting, the rest of us won’t develop any muscles.
+- No Superheroes. If one of us does all the heavy lifting, the rest of us won’t develop any muscles.
 - No cowboys. We need to be aligned on design principles and architectural approaches.
 - No surprises. We should be the first to know when there is a problem.
 
@@ -81,7 +81,7 @@ I am usually in the office from 10am to 6pm. I’m often there later, but rarely
 
 As for your schedule, do what works for you around the team’s core hours of 10am to 5pm. We have core hours in order to take maximum advantage of the high bandwidth communication channel created by sitting next to each other.
 
-That said, there are times when I need to leave earlier than 5pm in order to take care of my kids or arrive later than 10am so I can visit the dentist. This is my life. I expect yours has similar requirements. All I ask is that if you are going to be unavailable during core hours, please add the time to our out-of-office calendar and let the team know.
+That said, there are times when I need to leave earlier than 5pm in order to take care of my kids or arrive later than 10am so I can visit the dentist. This is my life. I expect yours has similar constraints. All I ask is that if you are going to be unavailable during core hours, please add the time to our out-of-office calendar and let the team know.
 
 ### Working from Home
 
