@@ -23,7 +23,7 @@ We will have a weekly, 30-minute one-on-one (unless you prefer a different caden
 
 I have three guiding principles for our team:
 
-- No Superheroes. If one of us does all the heavy lifting, the rest of us won’t develop any muscles.
+- No superheroes. If one of us does all the heavy lifting, the rest of us won’t develop any muscles.
 - No cowboys. We need to be aligned on design principles and architectural approaches.
 - No surprises. We should be the first to know when there is a problem.
 
