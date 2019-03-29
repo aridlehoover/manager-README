@@ -1,6 +1,6 @@
 # Hello. I’m Alan.
 
-Welcome to my manager README! This document is an introduction to me and my management style. It is not meant to be exhaustive. And, it is absolutely not intended to replace any face-to-face conversations between us. It's just my README: and introduction with some examples of how to use some of my common APIs.
+Welcome to my manager README! This document is an introduction to me and my management style. It is not meant to be exhaustive. And, it is absolutely not intended to replace any face-to-face conversations between us. It's just my README: an introduction with some examples of how to use my main APIs.
 
 ## What can you expect of me as your manager?
 
