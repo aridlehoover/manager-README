@@ -4,9 +4,7 @@ Every software development team is unique. As such, every team needs to discover
 
 This document describes the collection of practices that have worked best for me over the years. These are heavily influenced by Kent Beck's Extreme Programming Explained.
 
-## Practices
-
-### Organizational Practices
+## Organizational Practices
 
 - **Sit Together** &mdash; The entire team sits together in a shared, open space in order to better facilitate communication. This space is perferably isolated from other teams. It is also helpful for the shared area to include a large whiteboard and some blank wallspace.
 
@@ -18,7 +16,7 @@ This document describes the collection of practices that have worked best for me
 
 - **Team Continuity** &mdash; The team should be dedicated to a shared purpose. Team members should not have other commitments beyond the team. And, management should strive to keep the team together, even as the team's purpose changes over time. Camaraderie and trust go a long way toward collaboration and productivity.
 
-### Planning Practices
+## Planning Practices
 
 - **Stories** &mdash; Product requirements should be expressed in the form of short stories told from the perspective of an end-user or collaborating system. These stories should include the actor, the action, and the motivation for the actor to take the action.
 
@@ -34,7 +32,9 @@ This document describes the collection of practices that have worked best for me
 
 - **Slack** &mdash; There should be slack in the schedule. This allows for team members to sharpen their skills, attend training, or even just take time off without worrying that they are putting the project in jeopardy.
 
-### Technical Practices
+- **Small Releases** &nbsp; Software should be deliverd in small increments. The smaller the increment, the lower the risk, the less time it should take, and the faster customers can begin deriving value from the new code, which is the whole point.
+
+## Technical Practices
 
 - **Shared Code Ownership** &mdash; Anyone on the team should be able to improve any part of the code at any time. Knowledge silos are terrible for the team, given that departures are a fact of life.
 
@@ -57,5 +57,3 @@ This document describes the collection of practices that have worked best for me
 - **Incremental Design** &mdash; The software design should be simple and flexible enough so that it can grow with the software, through the practice of refactoring. Metaphors, when used correctly, are a powerful assistant in helping people understand the design.
 
 - **Single Code Base** &mdash; There should be only one master branch. Development should happen on short-lived feature branches. The shorter the life of a feature branch, the better. Feature branches should not span multiple days. If the task/story requires a longer running feature branch, then the task/story is too large and needs to be broken into smaller sub-tasks/stories.
-
-- **Small Releases** &nbsp; Software should be deliverd in small increments. The smaller the increment, the lower the risk, the less time it should take, and the faster customers can begin deriving value from the new code, which is the whole point
