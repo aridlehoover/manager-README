@@ -44,7 +44,7 @@ As software engineers, we are paid to think. But, I know from personal experienc
 
 Above all, think!
 
-### Collaberation
+### Collaboration
 
 Software development is a team sport. In order to meet our goals, we’re going to need to collaborate both within our team, and with other teams. To get there we need kindness, communication, and alignment.
 
