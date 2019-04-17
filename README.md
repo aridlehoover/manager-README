@@ -113,10 +113,6 @@ As a general rule, I prefer that people work together in the office as much as p
 
 Of course, there will be times when it makes sense for one or the other of us to work from home. I will do my best to plan and communicate this with the team before hand. And, as much as possible, I’ll be available via video chat for you to drop in to and talk to me face-to-face. I would appreciate it if you did the same.
 
-## Personality quirk
-
-Finally, I have been told that I can come across as having very strong opinions. That’s because I do. So, be prepared to challenge me when your idea is better than mine. Show me a better way, and I will likely change my position and argue just as strongly for yours.
-
 ## Recommended reading
 
 If you haven’t already, I highly recommend that you read these books:
@@ -127,6 +123,16 @@ If you haven’t already, I highly recommend that you read these books:
 
 These are my guideposts for how to write and test object-oriented software, how to run a software development team, and how to manage people.
 
+## Personality quirks
+
+Finally, I have a couple of quirks that are helpful to understand.
+
+The first is that I have been told that I can come across as having very strong opinions. That’s because I do. So, be prepared to challenge me when your idea is better than mine. Show me a better way, and I will likely change my position and argue just as strongly for yours.
+
+My second quirk is that I bring my whole self to work whether I want to or not. I can be emotional. I've been known to tear up &mdash; especially when giving praise. Honestly, I find it embarrassing, but I've learned to embrace it because that's who I am. I care deeply. And, sometimes it comes out in ways I cannot control.
+
+I mention these things here as a way of putting you at ease so that when you're confronted with my quirks, you'll already know what to expect.
+
 ## Welcome!
 
-That's it. That's me in a nutshell. I'm glad you're on the team. Now, let's get to work!
+We'll take time to get to know each other in person as work together. But, for now, that's it. That's me in a nutshell. I'm glad you're on the team. Now, let's get to work!
