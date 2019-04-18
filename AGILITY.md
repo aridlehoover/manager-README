@@ -6,7 +6,7 @@ This document describes the collection of practices that have worked best for me
 
 ## Organizational Practices
 
-- **Sit Together** &mdash; The entire team sits together in a shared, open space in order to better facilitate communication. This space is preferably isolated from other teams. It is also helpful for the shared area to include a large whiteboard and some blank wallspace for story cards, burn-up charts, or other relevant metrics. (A large television can also serve the role of blank wallspace.)
+- **Sit Together** &mdash; The entire team sits together in a shared, open space in order to better facilitate communication. This space is preferably isolated from other teams. It is also helpful for the shared area to include a large whiteboard and some blank wall space for story cards, burn-up charts, or other relevant metrics. (A large television can also serve the role of blank wall space.)
 
 - **Whole Team** &mdash; The team is comprised of everyone necessary to the development of the software. At a minimum, this should include a product manager and engineers. Depending on the project, the team may also include designers and/or technical specialists (like a DBA). Bonus points for including an actual customer on the team.
 
