@@ -74,7 +74,7 @@ There are many ways to mentor. Here are a few ideas to start:
 - Kindly provide feedback in person
 - Sit with another engineer and work on a problem together
 
-Mentoring isn’t hard. And, it’s not about who knows the most. I’ve mentored many people with better technical skills than mine by being open to sharing what I do know. And, I learn from people with less experience than me every day by being open to learning all the time.
+Mentoring isn’t hard. And, it’s not about who knows the most. I’ve mentored many people with more advanced technical skills than mine by being open to sharing what I do know. And, I learn from people with less experience than me every day by being open to learning all the time.
 
 ### Agility
 
@@ -89,7 +89,7 @@ For more on this topic, I've created a separate document, [here](AGILITY.md).
 I love learning. And, as hard as it is sometimes, I find personal growth to be extremely rewarding. I sincerely hope we share this gene.
 
 ### One on Ones
-We will have weekly one-on-one meetings. This will be a private, safe space where we can reflect and plan. I will often have things to discuss. But, this is your meeting. I defer to your agenda. In fact, I recommend that you jot down some notes before the meeting. Slack them to me ahead of time, if you want. I’ll do my best to prepare beforehand.
+We will have weekly one-on-one meetings. This will be a private, safe space where we can reflect and plan. I will often have things to discuss. But, this is your meeting. I defer to your agenda. In fact, I recommend that you jot down some notes before the meeting. Send them to me ahead of time, if you want. I’ll do my best to prepare beforehand.
 
 ### Giving Me Feedback
 
@@ -101,11 +101,11 @@ I will provide you feedback in the same spirit of learning and growth. More ofte
 
 ## Schedule
 
-I am usually in the office from 10am to 6pm. I’m often there later, but rarely earlier. That way I get to see my kids off to school and miss the traffic. Most nights, I get back online to plan the next day after my kids are in bed. So, it’s not uncommon to find me on Slack after 10pm. What can I say? I’m a night person.
+I am usually in the office from 10am to 6pm. I’m often there later, but rarely earlier. That way I get to see my kids off to school and miss the traffic. Most nights, I get back online to plan the next day after my kids are in bed. So, it’s not uncommon to find me online after 10pm. What can I say? I’m a night person.
 
 As for your schedule, do what works for you around the team’s core hours of 10am to 5pm. We have core hours in order to take maximum advantage of the high bandwidth communication channel created by sitting next to each other.
 
-That said, there are times when I need to leave earlier than 5pm in order to take care of my kids or arrive later than 10am so I can visit the dentist. This is my life. I expect yours has similar constraints. All I ask is that if you are going to be unavailable during core hours, please add the time to our out-of-office calendar and let me and the team know.
+That said, there are times when I need to leave earlier than 5pm in order to take care of my kids or arrive later than 10am so I can visit the dentist. This is my life. I expect yours has similar constraints. All I ask is that if you are going to be unavailable during core hours, please put it on your calendar and let me and the team know.
 
 ### Working from Home
 
@@ -127,12 +127,12 @@ These are my guideposts for how to write and test object-oriented software, how 
 
 Finally, I have a couple of quirks that are helpful to understand.
 
-The first is that I have been told that I can come across as having very strong opinions. That’s because I do. So, be prepared to challenge me when your idea is better than mine. Show me a better way, and I will likely change my position and argue just as strongly for yours.
+The first is that I can come across as having very strong opinions. That’s because I do. So, be prepared to challenge me when your idea is better than mine. Show me a better way, and I will likely change my position and argue just as strongly for yours.
 
-My second quirk is that I bring my whole self to work whether I want to or not. I can be emotional. I've been known to tear up &mdash; especially when giving praise. Honestly, I find it embarrassing, but I've learned to embrace it because that's who I am. I care deeply. And, sometimes it comes out in ways I cannot control.
+Second is that I bring my whole self to work. I can be emotional. In a good way. I've been known to tear up &mdash; especially when giving praise. Honestly, I find it embarrassing, but I've learned to embrace it because that's who I am. I care deeply. And, sometimes it comes out in ways I cannot control.
 
-I mention these things here as a way of putting you at ease so that when you're confronted with my quirks, you'll already know what to expect.
+I mention these things here as a way of helping you better understand me. You'll undoubtedly see these quirks in action. Now you'll know what to expect.
 
 ## Welcome!
 
-We'll take time to get to know each other in person as work together. But, for now, that's it. That's me in a nutshell. I'm glad you're on the team. Now, let's get to work!
+We'll make time to get to know each other better in person as we work together. But, for now, that's it. That's me in a nutshell. I'm glad you're on the team. Now, let's do something amazing together!
