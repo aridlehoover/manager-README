@@ -78,7 +78,7 @@ Mentoring isn’t hard. And, it’s not about who knows the most. I’ve mentore
 
 ### Agility
 
-Every software development team is unique. As such, every team needs to discover together the practices that work best for them. But, there are industry-wide best practices which the vast majority of teams should be using. And, there are others practices that have proved quite useful to me during my career.
+Every software development team is unique. As such, every team needs to discover together the practices that work best for them. But, there are industry-wide best practices which the vast majority of teams should be using. And, there are other practices that have proved quite useful to me during my career.
 
 My expectation here is that we will work together to discover the practices that work best for our team, and that we will reflect and learn and apply our learnings along the way.
 
