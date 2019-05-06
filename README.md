@@ -67,7 +67,7 @@ I expect the entire team to mentor one another no matter seniority, experience, 
 
 There are many ways to mentor. Here are a few ideas to start:
 
-- Write a commit message that explains why not what
+- Write a commit message that explains why, not what
 - Document some code with tests
 - Host a brown-bag
 - Get involved in a guild
