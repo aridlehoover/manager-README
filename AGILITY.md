@@ -32,7 +32,7 @@ This document describes the collection of practices that have worked best for me
 
 - **Slack** &mdash; There should be slack in the schedule. This allows for team members to sharpen their skills, attend training, or even just take time off without worrying that they are putting the project in jeopardy.
 
-- **Small Releases** &nbsp; Software should be delivered in small increments. The smaller the increment, the lower the risk, the less time it should take, and the faster customers can begin deriving value from the new code, which is the whole point.
+- **Small Releases** &mdash; Software should be delivered in small increments. The smaller the increment, the lower the risk, the less time it should take, and the faster customers can begin deriving value from the new code, which is the whole point.
 
 ## Technical Practices
 
