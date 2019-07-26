@@ -18,13 +18,15 @@ This document describes the collection of practices that have worked best for me
 
 ## Planning Practices
 
-- **Stories** &mdash; Product requirements should be expressed in the form of short stories told from the perspective of an end-user or collaborating system. These stories should include the actor, the action, and the motivation for the actor to take the action. Most importantly, each story should specify the criteria under which it will be accepted as complete.
+- **Stories and Epics** &mdash; Product requirements should be expressed in the form of short stories told from the perspective of an end-user or collaborating system. These stories should include the actor, the action, and the motivation for the actor to take the action. Most importantly, each story should specify the criteria under which it will be accepted as complete. Epics are collections of related user stories.
 
 - **Daily Cycle** &mdash; Near the beginning of the team's workday, members of the team should share their status with each other and with stakeholders. Impediments can be raised in this context, but team members should not wait to seek help when stuck.
 
 - **Weekly Cycle** &mdash; Work should be broken into weekly cycles in a planning meeting at the beginning of the week. This allows the team to determine the amount of work they can complete in a fixed period of time (otherwise known as their velocity), which can be used to predict when they will complete specific elements of their roadmap.
 
 - **Quarterly Cycle** &mdash; The team should take time once a quarter to map out their product priorities for the next three to six months. These product priorities should include KPIs for each new feature.
+
+- **Prioritized Backlog** &mdash; The team should maintain a prioritized backlog of epics and stories. Items near the top of the backlog are generally more well defined than items further down the list. Items are executed in order from top to bottom.
 
 - **Retrospection** &mdash; The team should regularly reflect on what's going well, what isn't, and how to improve. The team should also meet after completing larger projects to reflect on the lessons learned while working on the project.
 
