@@ -1,13 +1,19 @@
 # Hello. I’m Alan.
 
-Welcome to my README! This document is an introduction to me and my management style. It is not meant to be exhaustive; nor is it meant to replace face-to-face conversations between us. It's just my README: an introduction with some examples of how to to interact with my management API.
+Welcome to my README! This document is an introduction to me and my management style. It is not meant to be exhaustive; nor is it meant to replace face-to-face conversations between us. It's just my README: an introduction with some examples of how to to interact with my API.
+
+## A little about me...
+
+Though my title is Engineering Manager, don't let that fool you. I am an engineer at heart with 30 years of experience writing software professionally. For the last decade or so, I've been building web applications with Ruby, Rails, and RSpec. I'm particularly fond of buildning simple, well tested software. So, go ahead and hit me up with technical questions. You'll make my day!
+
+I'm also a veteran practitioner of agile software development. My first daily standup was in 2001. I test drove code for the first time the very next year. Got questions about Scrum, from planning with epics and user stories, to running an effective standup or retrospective? Got questions about Extreme Programming, from TDD, to pairing, to incremental design? I can probably help.
 
 ## What is my role?
 
 At a high level, my role is to ensure the success of our team. I define success as a combination of happiness, career growth, and adding value to the organization. Specifically:
 
 1. I am here to help you improve your technical skills, grow your career, and enjoy your work.
-2. I am here to provide context and to [align](https://thinkgrowth.org/what-elon-musk-taught-me-about-growing-a-business-c2c173f5bff3) our team with the rest of the organization.
+2. I am here to provide context and to [align][vectors] our team with the rest of the organization.
 3. I am here to represent the team, ensure the team is getting what we need from other teams, and vice versa.
 4. I am also here to (occasionally) write some code.
 
@@ -46,9 +52,7 @@ Above all, think!
 
 ### Collaboration
 
-Software development is a team sport. In order to meet our goals, we’re going to need to collaborate both within our team, and with other teams. To get there we need kindness, communication, and alignment.
-
-Be kind to one other — especially when things go wrong. Your kindness will create a trusting, safe space for open and honest communication. Once we’re communicating, we can align ourselves around a shared purpose. Doing so will foster collaboration.
+Software development is a team sport. In order to meet our goals, we’re going to need to collaborate both within our team, and with other teams. To get there we need kindness, openness, and honesty. Your kindness will help create a trusting, safe space for open and honest communication.
 
 Here are a few ways we can collaborate:
 
@@ -67,7 +71,7 @@ I expect the entire team to mentor one another no matter seniority, experience, 
 
 There are many ways to mentor. Here are a few ideas to start:
 
-- Write a commit message that explains why, not what
+- Write a commit message that explains why, not just what
 - Document some code with tests
 - Host a brown-bag
 - Get involved in a guild
@@ -78,11 +82,17 @@ Mentoring isn’t hard. And, it’s not about who knows the most. I’ve mentore
 
 ### Agility
 
+As I mentioned above, I have a ton of experience with agile software development. But, beyond the specifics of the process, I'm truly passionate about developer agility: the ability to reliably deliver value quickly.
+
+Doing so requires that teams be able to nimbly navigate their codebase — adding new features, removing defects, pruning dead code, and refactoring what's left for simplicity and clarity. To do so requires structurally simple (well factored) code and a solid foundation of fast, reliable tests.
+
+Developer agility also requires fast, reliable tooling, from work item tracking systems, to source control repositories, to continuous integration and deployment pipelines, because agility dies the moment you have to rerun the build four times due to a flaky test.
+
 Every software development team is unique. As such, every team needs to discover together the practices that work best for them. But, there are industry-wide best practices which the vast majority of teams should be using. And, there are other practices that have proved quite useful to me during my career.
 
 My expectation here is that we will work together to discover the practices that work best for our team, and that we will reflect and learn and apply our learnings along the way.
 
-For more on this topic, I've created a separate document, [here](AGILITY.md).
+For more on this topic, I've created a separate document on [agiility](AGILITY.md).
 
 ## Feedback
 
@@ -101,25 +111,19 @@ I will provide you feedback in the same spirit of learning and growth. More ofte
 
 ## Schedule
 
-I am usually in the office from 10am to 6pm. I’m often there later, but rarely earlier. That way I get to see my kids off to school and miss the traffic. Most nights, I get back online to plan the next day after my kids are in bed. So, it’s not uncommon to find me online after 10pm. What can I say? I’m a night person.
+I am usually at work from 10am to 6pm. I’m often there later, but rarely earlier. That way I get to see my kids off to school and miss the traffic. Most nights, I get back online to plan the next day after my kids are in bed. So, it’s not uncommon to find me online after 10pm. What can I say? I’m a night owl.
 
 As for your schedule, do what works for you around the team’s core hours of 10am to 5pm. We have core hours in order to take maximum advantage of the high bandwidth communication channel created by sitting next to each other.
 
-That said, there are times when I need to leave earlier than 5pm in order to take care of my kids or arrive later than 10am so I can visit the dentist. This is my life. I expect yours has similar constraints. All I ask is that if you are going to be unavailable during core hours, please put it on your calendar and let me and the team know.
-
-### Working from Home
-
-As a general rule, I prefer that people work together in the office as much as possible. As I alluded to above, I prefer this because communicating in person has a much higher signal to noise ratio that other forms of communication.
-
-Of course, there will be times when it makes sense for one or the other of us to work from home. I will do my best to plan and communicate this with the team before hand. And, as much as possible, I’ll be available via video chat for you to drop in to and talk to me face-to-face. I would appreciate it if you did the same.
+That said, there are times when I need to leave earlier than 5pm in order to take care of my kids or arrive later than 10am so I can visit the dentist. This is my life. I expect yours has similar constraints. All I ask is that if you are going to be unavailable during core hours, please put it on your calendar and let me and the team know in advance.
 
 ## Recommended reading
 
 If you haven’t already, I highly recommend that you read these books:
 
-- [Practical Object Oriented Development in Ruby](http://www.poodr.com/) by Sandi Metz
-- [Extreme Programming Explained](https://www.amazon.com/Extreme-Programming-Explained-Embrace-Change/dp/0321278658) by Kent Beck
-- [Radical Candor](https://www.radicalcandor.com/) by Kim Scott
+- [Practical Object Oriented Development in Ruby][poodr] by Sandi Metz
+- [Extreme Programming Explained](xp) by Kent Beck
+- [Radical Candor][candor] by Kim Scott
 
 These are my guideposts for how to write and test object-oriented software, how to run a software development team, and how to manage people.
 
@@ -129,10 +133,18 @@ Finally, I have a couple of quirks that are helpful to understand.
 
 The first is that I can come across as having very strong opinions. That’s because I do. So, be prepared to challenge me when your idea is better than mine. Show me a better way, and I will likely change my position and argue just as strongly for yours.
 
-Second is that I bring my whole self to work. I can be emotional. In a good way. I've been known to tear up &mdash; especially when giving praise. Honestly, I find it embarrassing, but I've learned to embrace it because that's who I am. I care deeply. And, sometimes it comes out in ways I cannot control.
+Second, I'm wordy (as you can tell!). And, I can take over a meeting or conversation. Please don't let my voice drown out yours. Like I said above, I value feedback. Remind me kindly to make space for others. It's critical to the success of our team that we are all able to share our thoughts.
+
+Finally, I bring my whole self to work. I can be emotional. In a good way. I've been known to tear up — especially when giving praise. Honestly, I find it embarrassing, but I've learned to embrace it because that's who I am. I care deeply. And, sometimes it comes out in ways I cannot control.
 
 I mention these things here as a way of helping you better understand me. You'll undoubtedly see these quirks in action. Now you'll know what to expect.
 
 ## Welcome!
 
 We'll make time to get to know each other better in person as we work together. But, for now, that's it. That's me in a nutshell. I'm glad you're on the team. Now, let's do something amazing together!
+
+
+[vectors]: https://thinkgrowth.org/what-elon-musk-taught-me-about-growing-a-business-c2c173f5bff3
+[poodr]: http://www.poodr.com/
+[xp]: https://www.amazon.com/Extreme-Programming-Explained-Embrace-Change/dp/0321278658
+[candor]: https://www.radicalcandor.com/
