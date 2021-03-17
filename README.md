@@ -111,11 +111,11 @@ I will provide you feedback in the same spirit of learning and growth. More ofte
 
 ## Schedule
 
-I am usually at work from 10am to 6pm. I’m often there later, but rarely earlier. That way I get to see my kids off to school and miss the traffic. Most nights, I get back online to plan the next day after my kids are in bed. So, it’s not uncommon to find me online after 10pm. What can I say? I’m a night owl.
+I usually work from 10am to 6pm. I’m often there later, but rarely earlier. That way I get to see my kids off to school and miss the traffic. Most nights, I get back online to plan the next day after my kids are in bed. So, it’s not uncommon to find me online after 10pm. What can I say? I’m a night owl.
 
-As for your schedule, do what works for you around the team’s core hours of 10am to 5pm. We have core hours in order to take maximum advantage of the high bandwidth communication channel created by sitting next to each other.
+As for your schedule, do what works for you around the team’s core hours of 10am to 4pm. We have core hours in order to take maximum advantage of the high bandwidth communication channel created by sitting next to each other or being able to jump on a video chat together.
 
-That said, there are times when I need to leave earlier than 5pm in order to take care of my kids or arrive later than 10am so I can visit the dentist. This is my life. I expect yours has similar constraints. All I ask is that if you are going to be unavailable during core hours, please put it on your calendar and let me and the team know in advance.
+That said, there are times when I need to leave earlier than 4pm in order to take care of my kids or arrive later than 10am so I can visit the dentist. This is my life. I expect yours has similar constraints. All I ask is that if you are going to be unavailable during core hours, please put it on your calendar and let me and the team know in advance.
 
 ## Recommended reading
 
