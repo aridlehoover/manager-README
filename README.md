@@ -6,7 +6,7 @@ Welcome to my README! This document is an introduction to me and my management s
 
 Though my title is Engineering Manager, don't let that fool you. I am an engineer at heart with 30 years of experience writing software professionally. For the last decade or so, I've been building web applications with Ruby, Rails, and RSpec. I'm particularly fond of building simple, well tested software. So, go ahead and hit me up with technical questions. You'll make my day!
 
-I'm also a veteran practitioner of agile software development. My first daily standup was in 2001. I test drove code for the first time the very next year. Got questions about Scrum, from planning with epics and user stories, to running an effective standup or retrospective? Got questions about Extreme Programming, from TDD, to pairing, to incremental design? I can probably help.
+I'm also a veteran practitioner of agile software development. My first daily standup was in 2001. I test drove code for the first time that same year. Got questions about Scrum, from planning with epics and user stories, to running an effective standup or retrospective? Got questions about Extreme Programming, from TDD, to pairing, to incremental design? I can probably help.
 
 ## What is my role?
 
