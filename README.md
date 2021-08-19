@@ -111,11 +111,13 @@ I will provide you feedback in the same spirit of learning and growth. More ofte
 
 ## Schedule
 
-I usually work from 10am to 6pm. I’m often there later, but rarely earlier. That way I get to see my kids off to school and miss the traffic. Most nights, I get back online to plan the next day after my kids are in bed. So, it’s not uncommon to find me online after 10pm. What can I say? I’m a night owl.
+My schedule pre-pandemic was roughly 10am to 6pm. I'd often work later, but rarely earlier. That way I got to see my kids off to school and skip rush hour. I also had a habit of getting back online after my kids were in bed. It wasn't uncommon to find me online after 10pm. What can I say? I'm a night owl.
 
-As for your schedule, do what works for you around the team’s core hours of 10am to 4pm. We have core hours in order to take maximum advantage of the high bandwidth communication channel created by sitting next to each other or being able to jump on a video chat together.
+Now, however, my schedule has shifted. I'm able to work a little earlier (since my commute is about 30 feet). And, I rarely work after 6pm. This way, I get both breakfast and dinner with the family. (Frankly, I'm not sure I want to go back to the office...)
 
-That said, there are times when I need to leave earlier than 4pm in order to take care of my kids or arrive later than 10am so I can visit the dentist. This is my life. I expect yours has similar constraints. All I ask is that if you are going to be unavailable during core hours, please put it on your calendar and let me and the team know in advance.
+As for your schedule, do what works for you around the team’s core hours of 10am to 3pm Pacific Time. We have core hours in order to take maximum advantage of the high bandwidth communication channel created by being able to jump on a video chat together.
+
+That said, there are times when I'll need to arrive late or leave early to take care of my kids or go see the dentist. This is my life. I expect yours has similar constraints. All I ask is that if you are going to be unavailable during core hours, please put it on your calendar and let me and the team know in advance.
 
 ## Recommended reading
 
