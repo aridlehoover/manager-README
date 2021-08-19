@@ -76,5 +76,5 @@ This document describes the collection of practices that have worked best for me
 
 ## Conclusion
 
-I'm not saying that every team needs to do all of these practices. I'm just saying that I've had positive experiences with each of these practices and would argue for their use on my teams. YMMV.
+I'm not saying that every team needs to do all of these practices, or even that this is an exhaustive list of best practices. I'm just saying that I've had positive experiences with each of these practices and would argue for their use on my teams. YMMV.
 
