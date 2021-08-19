@@ -15,7 +15,7 @@ At a high level, my role is to ensure the success of our team. I define success 
 1. I am here to help you improve your technical skills, grow your career, and enjoy your work.
 2. I am here to provide context and to [align][vectors] our team with the rest of the organization.
 3. I am here to represent the team, ensure the team is getting what we need from other teams, and vice versa.
-4. I am also here to (occasionally) write some code.
+4. I am also here to (occasionally) write some code - hopefully while pairing with you!
 
 These are in rough order of prioritization. If you aren't successful and happy, then our team is not successful (or happy). If our team is struggling, I probably won't be writing much code.
 
