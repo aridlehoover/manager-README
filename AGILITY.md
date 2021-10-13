@@ -44,8 +44,6 @@ This document describes the collection of practices that have worked best for me
 
 - **Pair Programming** &mdash; The most effective way to accomplish the goals of shared code ownership is to write code in pairs. Everyone should be so lucky as to find people they pair with effectively.
 
-- **Small Releases** &mdash; Software should be delivered in small increments. The smaller the increment, the lower the risk, the less time it should take, and the faster customers can begin deriving value from the new code, which is the whole point.
-
 - **Whole Team** &mdash; The team is comprised of everyone necessary to the development of the software. At a minimum, this should include a product manager and engineers. Depending on the project, the team may also include designers and/or technical specialists (like a DBA). Bonus points for including an actual customer on the team.
 
 - **Informative Workspace** &mdash; The team's workspace (virtual or IRL) should reflect the work that happens there. For example, monitoring dashboards should be prominently displayed; stories can be tracked via 3x5 cards hung from the wall, or in a shared work item tracking system.
@@ -73,6 +71,8 @@ This document describes the collection of practices that have worked best for me
 - **Daily Cycle** &mdash; Near the beginning of the team's workday, members of the team should share their status with each other and with stakeholders. Impediments can be raised in this context, but team members should not wait to seek help when stuck.
 
 - **Stories and Epics** &mdash; Product requirements should be expressed in the form of short stories told from the perspective of an end-user or collaborating system. These stories should include the actor, the action, and the motivation for the actor to take the action. Most importantly, each story should specify the criteria under which it will be accepted as complete. Collections of related stories are called epics.
+
+- **Small Releases** &mdash; Software should be delivered in small increments. The smaller the increment, the lower the risk, the less time it should take, and the faster customers can begin deriving value from the new code, which is the whole point.
 
 ## Conclusion
 
