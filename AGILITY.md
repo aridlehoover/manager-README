@@ -54,7 +54,7 @@ This document describes the collection of practices that have worked best for me
 
 - **Team Continuity** &mdash; The team should be dedicated to a shared purpose. Team members should not have other work commitments beyond the team. And, management should strive to keep the team together, even as the team's purpose changes over time. Camaraderie and trust go a long way toward collaboration and productivity.
 
-- **Virtually Sit Together** &mdash; Before COVID-19, I believed that teams functioned better when sitting together in a shared space to better facilitate communication. What I've learned from working remotely for many months is that the team is thriving. But, to keep that up, the team needs to interact as a whole at least daily.
+- **(Virtually) Sit Together** &mdash; Before COVID-19, I believed that teams functioned better when sitting together in a shared space to better facilitate communication. What I've learned from working remotely for many months is that the team is thriving. But, to keep that up, the team needs to interact as a whole at least daily.
 
 - **Slack** &mdash; There should be slack in the schedule. This allows for team members to sharpen their skills, explore side projects, or even just take time off without worrying that they are putting the project in jeopardy.
 
