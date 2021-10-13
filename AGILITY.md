@@ -40,7 +40,9 @@ This document describes the collection of practices that have worked best for me
 
 ## Practices to Improve Cultural Agility
 
-- **Shared Code Ownership** &mdash; Anyone on the team should be able to improve any part of the code at any time. Knowledge silos are terrible for the team, given that departures are a fact of life.
+- **Empathy** &mdash; The single most important attribute of an agile team is empathy. Empathy for their customer, for sure. But, empathy for each other even more so. Empathy that we've all broken the build; we've all released a serious bug; and, none of us know everything. Without empathy, collective ownership, pair programming, team continuity, and retrospection just aren't possible. 
+
+- **Collective Ownership** &mdash; Anyone on the team should be able to improve any part of the code at any time. Knowledge silos are terrible for the team, given that departures are a fact of life.
 
 - **Pair Programming** &mdash; The most effective way to accomplish the goals of shared code ownership is to write code in pairs. It's also a great way to spin up new team members. Just make sure that you don't forget video if you're pairing remotely. Facial expressions carry a ton of meaning. And, a confused look is often one of the best bits of feedback a pair can get.
 
