@@ -42,7 +42,7 @@ This document describes the collection of practices that have worked best for me
 
 - **Shared Code Ownership** &mdash; Anyone on the team should be able to improve any part of the code at any time. Knowledge silos are terrible for the team, given that departures are a fact of life.
 
-- **Pair Programming** &mdash; The most effective way to accomplish the goals of shared code ownership is to write code in pairs. Everyone should be so lucky as to find people they pair with effectively.
+- **Pair Programming** &mdash; The most effective way to accomplish the goals of shared code ownership is to write code in pairs. It's also a great way to spin up new team members. Just make sure that you don't forget video if you're pairing remotely. Facial expressions carry a ton of meaning. And, a confused look is often one of the best bits of feedback a pair can get.
 
 - **Whole Team** &mdash; The team is comprised of everyone necessary to the development of the software. At a minimum, this should include a product manager and engineers. Depending on the project, the team may also include designers and/or technical specialists (like a DBA). Bonus points for including an actual customer on the team.
 
