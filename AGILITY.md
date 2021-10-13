@@ -58,6 +58,10 @@ This document describes the collection of practices that have worked best for me
 
 - **Slack** &mdash; There should be slack in the schedule. This allows for team members to sharpen their skills, explore side projects, or even just take time off without worrying that they are putting the project in jeopardy.
 
+- **Retrospection** &mdash; The team should regularly reflect on what's going well, what isn't, and how to improve. The team should also meet after completing larger projects to reflect on the lessons learned while working on the project.
+
+- **Root Cause Analysis** &mdash; When things go wrong, fix them first, then reflect on what happened. This should be a safe, blameless space for learning about what happened and finding solutions that will prevent it from happening again.
+
 ## Practices to Improve Procedural Agility
 
 - **Prioritized Backlog** &mdash; The team should maintain a prioritized backlog of work. Items near the top of the backlog are generally more well defined than items further down the list. Items are executed in order from top to bottom.
@@ -69,10 +73,6 @@ This document describes the collection of practices that have worked best for me
 - **Daily Cycle** &mdash; Near the beginning of the team's workday, members of the team should share their status with each other and with stakeholders. Impediments can be raised in this context, but team members should not wait to seek help when stuck.
 
 - **Stories and Epics** &mdash; Product requirements should be expressed in the form of short stories told from the perspective of an end-user or collaborating system. These stories should include the actor, the action, and the motivation for the actor to take the action. Most importantly, each story should specify the criteria under which it will be accepted as complete. Collections of related stories are called epics.
-
-- **Retrospection** &mdash; The team should regularly reflect on what's going well, what isn't, and how to improve. The team should also meet after completing larger projects to reflect on the lessons learned while working on the project.
-
-- **Root Cause Analysis** &mdash; When things go wrong, fix them first, then reflect on what happened. Use the Five Why's technique to dig into the heart of the problem.
 
 ## Conclusion
 
