@@ -20,8 +20,6 @@ This document describes the collection of practices that have worked best for me
 
 - **Code Reviews** &mdash; In order to facilitate quality, improve security, and foster knowledge and skills transfer, all code must be peer reviewed prior to merging it into the main branch.
 
-- **Pair Programming** &mdash; The most effective way to accomplish the goals of shared code ownership is to write code in pairs. Everyone should be so lucky as to find people they pair with effectively.
-
 - **100% Code Coverage** &mdash; Under normal circumstances, all production code should be tested. Prototypes and spikes do not require tests. But, before that code is shipped to production, it must be covered with tests. And, contrary to common wisdom, I have found great value in 100% test coverage. It is not a panacea. Even code with 100% test coverage will contain bugs. But, the freedom to refactor at will without fear is worth it.
 
 - **Testing in Layers** &mdash; Tests should be written at multiple levels of abstraction. Unit tests should describe individual classes and methods. Integration tests should prove that systems interact correctly at their boundaries. And, functional tests should illuminate whether or not the software fulfills it's requirements.
@@ -43,6 +41,8 @@ This document describes the collection of practices that have worked best for me
 ## Practices to Improve Cultural Agility
 
 - **Shared Code Ownership** &mdash; Anyone on the team should be able to improve any part of the code at any time. Knowledge silos are terrible for the team, given that departures are a fact of life.
+
+- **Pair Programming** &mdash; The most effective way to accomplish the goals of shared code ownership is to write code in pairs. Everyone should be so lucky as to find people they pair with effectively.
 
 - **Small Releases** &mdash; Software should be delivered in small increments. The smaller the increment, the lower the risk, the less time it should take, and the faster customers can begin deriving value from the new code, which is the whole point.
 
