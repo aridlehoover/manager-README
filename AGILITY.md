@@ -1,18 +1,29 @@
 # Agility
 
-The word agile has become synonymous with process, as in, "We're an agile shop. We do Scrum." Scrum, Kanban, and others put structure around our work in order to simplify and standardize project management. They're great. They can work really well. But, process is only one part of agility.
+The word agile has become synonymous with process, as in, "We're an agile shop. We do Scrum." Proccesses like Scrum, Kanban, and others put structure around our work in order to simplify and standardize project management. They're great. They can work really well. But, process is only one part of agility.
 
-The true core of agility is reliably and quickly delivering value to customers. This requires more than process.
+The true core of agility is the ability reliably, rapidly, and repeatedly deliver value to our customers. This requires more than just process.
 
-- You need the ability to move nimbly through a codebase, writing well factored, structurally simple code and building a foundation of fast, reliable tests.
+- We need the ability to move nimbly through our codebase: writing well-factored, structurally simple code on a foundation of fast, reliable ~~automated tests~~ documentation.
 
-- You need dependable, performant tooling, including builds that run in under 10 minutes, and a deploy process that rarely fails and allows for easy rollbacks when necessary.
+- We need dependable, performant tooling, including builds that run in under 10 minutes, and bullet-proof deploys that are easily rolled back when necessary.
 
-- And, you need a culture that encourages shared ownership, iteration, and a sense that we are all in it together.
+- And, we need a culture that encourages empathy, learning, and a sense that we are all in this together.
 
-Of course, every team is unique. And as such, every team needs to discover together the practices that work best for them. But, there are industry-wide best practices which the vast majority of teams should be using. And, there are others practices that have proved quite useful to me during my career.
+Of course, every team is unique. And as such, every team needs to discover together the values and practices that work best for them. But, there are industry-wide best practices which the vast majority of teams should be using. And, there are others for which I would lobby, because they have proved quite useful to me during my career.
 
-This document describes the collection of practices that have worked best for me over the years. These are heavily influenced by Kent Beck's Extreme Programming Explained.
+This document describes the collection of values and practices that have worked best for me during 20+ years of practicing agile.
+
+## Cultural Agility
+
+Agility begins with culture. No amount of process can make you agile. Neither can that certificate on your wall. Only a culture of empathy that celebrates learning, and 
+
+
+
+
+
+
+
 
 ## Practices to Improve Code Agility
 
@@ -40,7 +51,7 @@ This document describes the collection of practices that have worked best for me
 
 ## Practices to Improve Cultural Agility
 
-- **Empathy** &mdash; The single most important attribute of an agile team is empathy. Empathy for their customer, for sure. But, empathy for each other even more so. Empathy that we've all broken the build; we've all released a serious bug; and, none of us know everything. Without empathy, collective ownership, pair programming, team continuity, and retrospection just aren't possible. 
+- **Empathy** &mdash; The single most important attribute of an agile team is empathy. Empathy for their customer, for sure. But, empathy for each other even more so. Empathy that we've all broken the build; we've all released a serious bug; and, none of us know everything. Without empathy, collective ownership, pair programming, team continuity, and retrospection just aren't possible.
 
 - **Collective Ownership** &mdash; Anyone on the team should be able to improve any part of the code at any time. Knowledge silos are terrible for the team, given that departures are a fact of life.
 
