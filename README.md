@@ -78,6 +78,7 @@ There are many ways to mentor. Here are a few ideas to start:
 - Get involved in a guild
 - Kindly provide feedback in person
 - Sit with another engineer and work on a problem together
+- And, above all, take on a growth mindset
 
 Mentoring isn’t hard. And, it’s not about who knows the most. I’ve mentored many people with more advanced technical skills than mine by being open to sharing what I do know. And, I learn from people with less experience than me every day by being open to learning all the time.
 
