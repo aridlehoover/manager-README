@@ -62,6 +62,7 @@ Here are a few ways we can collaborate:
 - Actively participate in retrospectives
 - Thoughtfully review a pull request
 - Sit with another engineer and work on a problem together
+- And, above all, assume positive intent
 
 ### Mentorship
 
