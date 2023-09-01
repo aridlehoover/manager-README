@@ -115,11 +115,11 @@ I will provide you feedback in the same spirit of learning and growth. More ofte
 
 My schedule pre-pandemic was roughly 10am to 6pm. I'd often work later, but rarely earlier. That way I got to see my kids off to school and skip rush hour. I also had a habit of getting back online after my kids were in bed. It wasn't uncommon to find me online after 10pm. What can I say? I'm a night owl.
 
-Now, however, my schedule has shifted. I'm able to work a little earlier (since my commute is about 30 feet). And, I rarely work after 6pm. This way, I get both breakfast and dinner with the family. (Frankly, I'm not sure I want to go back to the office...)
+Now, however, my schedule has shifted. I'm able to work a little earlier—around 9am—since my commute is about 30 feet. And, I rarely work after 5pm. This way, I get both breakfast and dinner with the family. (Frankly, I'm not sure I want to go back to the office...)
 
-As for your schedule, do what works for you around the team’s core hours of 10am to 3pm Pacific Time. We have core hours in order to take maximum advantage of the high bandwidth communication channel created by being able to jump on a video chat together.
+As for your schedule, I used to espouse core hours for the team to enable high bandwidth communication. But, with the team so geographically dispersed, it makes less sense to set aside core hours where everyone is available. So, do what works best for you. And, update your calendar to show what your working hours are. Plus, be sure to set boundaries if you're working from home. Slack is omnipresent. You shouldn't have to be.  
 
-That said, there are times when I'll need to arrive late or leave early to take care of my kids or go see the dentist. This is my life. I expect yours has similar constraints. All I ask is that if you are going to be unavailable during core hours, please put it on your calendar and let me and the team know in advance.
+Finally, there are times when I'll need to arrive late or leave early to take care of my kids or go see the dentist. This is my life. I expect yours has similar constraints. All I ask is that if you are going to be unavailable, please put it on your calendar and let the team know in advance.
 
 ## Recommended reading
 
