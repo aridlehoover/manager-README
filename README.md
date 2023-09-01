@@ -101,7 +101,7 @@ For more on this topic, I've created a separate document on [agiility](AGILITY.m
 I love learning. And, as hard as it is sometimes, I find personal growth to be extremely rewarding. I sincerely hope we share this gene.
 
 ### One on Ones
-We will have weekly one-on-one meetings. This will be a private, safe space where we can reflect and plan. I will often have things to discuss. But, this is your meeting. I defer to your agenda. In fact, I recommend that you jot down some notes before the meeting. Send them to me ahead of time, if you want. I’ll do my best to prepare beforehand.
+We will have one-on-one meetings on a cadence that makes sense for the two of us. This will be a private, safe space where we can reflect and plan. I will often have things to discuss. But, this is your meeting. I defer to your agenda. In fact, I recommend that you jot down some notes before the meeting. Send them to me ahead of time, if you want. I’ll do my best to prepare beforehand.
 
 ### Giving Me Feedback
 
