@@ -12,7 +12,7 @@ I'm also a veteran practitioner of agile software development. My first daily st
 
 At a high level, my role is to ensure the success of our team. I define success as a combination of happiness, career growth, and adding value to the organization. Specifically:
 
-1. I am here to help you improve your technical skills, grow your career, and enjoy your work.
+1. I am here to help you focus on your strengths, improve your skills, grow your career, and enjoy your work.
 2. I am here to provide context and to [align][vectors] our team with the rest of the organization.
 3. I am here to represent the team, ensure the team is getting what we need from other teams, and vice versa.
 4. I am also here to (occasionally) write some code - hopefully while pairing with you!
