@@ -48,7 +48,7 @@ This document describes the collection of practices that have worked best for me
 
 - **Testing in Layers** &mdash; Tests should be written at multiple levels of abstraction. Unit tests should describe individual classes and methods. Integration tests should prove that systems interact correctly at their boundaries. And, functional tests should illuminate whether or not the software fulfills it's requirements.
 
-- **Test-First Programming** &mdash; When fixing a bug, engineers should first write a test that reproduces the bug, then fix the test. When adding a feature, engineers should first write a test that documents the missing feature, then write the code that makes the test pass.
+- **Test-First Programming** &mdash; When fixing a bug, engineers should first write a test that reproduces the bug, then write just enough code to fix the test. When adding a feature, engineers should first write a test that documents the missing feature, then write just enough code to make the test pass.
 
 - **Incremental Design** &mdash; The software design should be simple and flexible enough so that it can grow with the software, through the practice of refactoring. Metaphors, when used well, are a powerful assistant in helping people understand the design.
 
