@@ -42,7 +42,7 @@ This document describes the collection of practices that have worked best for me
 
 - **Coding Standards** &mdash; The team should use well-established, industry-backed coding standards to avoid trivial disagreements, and to make the code easier for everyone to understand, including new team members.
 
-- **Code Reviews** &mdash; In order to facilitate quality, improve security, and foster knowledge and skills transfer, all code must be peer reviewed prior to merging it into the main branch. (The most effective way to do this is actually to write the software together in pairs or even groups. See Pair Programming, below.)
+- **Code Reviews** &mdash; In order to facilitate quality, improve security, and foster knowledge and skills transfer, all code must be peer reviewed prior to merging it into the main branch. (The most effective way to do this is actually to write the software together in pairs or even groups. See Pair Programming, below.) Note, also, that smaller commits make for easier and more accurate code reviews. So, keep your commits small. You'll move faster and get more done.
 
 - **100% Code Coverage** &mdash; Under normal circumstances, all production code should be tested. Prototypes and spikes do not require tests. But, before that code is shipped to production, it must be covered with tests. And, contrary to common wisdom, I have found great value in 100% test coverage. It is not a panacea. Even code with 100% test coverage will contain bugs. But, the freedom to refactor at will without fear is well worth it.
 
